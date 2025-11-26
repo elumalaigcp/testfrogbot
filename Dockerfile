@@ -8,6 +8,11 @@ ENV DUMMY_PASSWORD="supersecretpassword"
 ENV ACCESS_TOKEN="ghp_AbCa5bdDeF6TT1111PA0z2mzU1agpXrzgo3eLzZZ"
 ENV CLIENTSECRET="1234abcd5678efgh9012ijkl"
 
+ENV DUMMY_API_KEY1="12345-abcde-67890-fghijdaag"
+ENV DUMMY_PASSWORD2="supersecretpasswordadag"
+ENV ACCESS_TOKEN3="ghp_AbCa5bdDeF6TT1111PA0z2mzU1agpXrzgo3eLzZagadgagZ"
+ENV CLIENTSECRET4="1234abcd5678efgh9012ijklagdagagdag"
+
 # install ssh
 #RUN microdnf install sudo
 RUN apt-get update && apt-get install -y sudo

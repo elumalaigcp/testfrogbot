@@ -38,6 +38,6 @@ jobs:
           JF_URL: 'https://hts2.jfrog.io'
           JF_USER: 'elumalai'
           JF_PASSWORD: 'Password@123'
-          JF_GIT_BASE_BRANCH: ${{ matrix.branch }}
+          JF_GIT_BASE_BRANCH: main
           JF_GIT_TOKEN: ${{ secrets.JF_GIT_TOKEN }}
 

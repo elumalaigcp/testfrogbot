@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+orjson
+build
+alembic==1.17.0
+deepdiff==8.3.0
+mlflow==2.5.0

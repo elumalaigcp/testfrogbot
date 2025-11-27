@@ -1,0 +1,26 @@
+{
+  "name": "vulnerable-test-app",
+  "version": "1.0.0",
+  "description": "A test application with known vulnerable dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.4",
+    "debug": "2.6.8",
+    "tar": "2.0.0",
+    "request": "2.81.0"
+  },
+  "devDependencies": {
+    "karma": "1.7.0"
+  },
+  "keywords": [
+    "vulnerability",
+    "test",
+    "security"
+  ],
+  "author": "",
+  "license": "ISC"
+}

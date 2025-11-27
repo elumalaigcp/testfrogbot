@@ -1,0 +1,5 @@
+DB_PASSWORD = "password123"
+ACCESS_TOKEN = "ghp_abc123"
+
+ADMIN_USER = "elumalai1234"
+ADMIN_PASSWORD = "#22afdakgdbasgbasgd123455"

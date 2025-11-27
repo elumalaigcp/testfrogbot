@@ -14,4 +14,4 @@ print(df)
 sys.exit(0)
 
 DB_PASSWORD = "password123"
-ACCESS_TOKEN = "ghp_abc123thisisonlyfortesting"
+ACCESS_TOKEN = "ghp_abc123"

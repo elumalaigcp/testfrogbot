@@ -1,5 +1,5 @@
 # Introduction
-JFrog Repository (Test Artifiacts Promotion) 
+JFrog Repository (Test Artifiacts Promotion)  
 
 ## Project Description
 This repository contains a Proof of Concept (PoC) for integrating JFrog products (Artifactory, Xray, Frogbot) with our application development. The goal of this PoC is to demonstrate the capabilities of JFrog Artifactory in managing and automating software artifacts, improving build and release processes.
